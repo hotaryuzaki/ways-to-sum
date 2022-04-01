@@ -31,5 +31,5 @@ function ways(total, k) {
   return count[total];
 }
 
-const x = ways(10, 5);
+const x = ways(5, 3);
 console.log(x);
