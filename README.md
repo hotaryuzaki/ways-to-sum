@@ -1,4 +1,4 @@
-# ways-to-sum
+# ways to sum
 this is 1 one of the hackerrank question, ways to sum with dynamic programming.
 
 i put a console log so that easy to understand the logic.
